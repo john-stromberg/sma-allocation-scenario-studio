@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [portfolio-analytics/projects/sma-allocation-scenario-studio](https://github.com/john-stromberg/portfolio-analytics/tree/main/projects/sma-allocation-scenario-studio).
+> This repository is retained as a historical snapshot.
+
+---
+
 # sma-allocation-scenario-studio
 
 Track: **SMA Portfolio Management**
